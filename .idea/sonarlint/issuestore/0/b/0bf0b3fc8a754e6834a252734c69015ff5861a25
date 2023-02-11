@@ -1,0 +1,25 @@
+
+Ÿ
+java:S3577"ˆRename class "MetalShop" to match the regular expression: '^((Test|IT)[a-zA-Z0-9_]+|[A-Z][a-zA-Z0-9_]*(Test|Tests|TestCase|IT|ITCase))$'(ø»®
+4
+java:S5786("Remove this 'public' modifier.(Š­Äû
+4
+java:S57862"Remove this 'public' modifier.(ÑÕá
+9
+java:S5786;"Remove this 'public' modifier.(İÙœ½øÿÿÿÿ
+9
+java:S5786L"Remove this 'public' modifier.(öäàÒüÿÿÿÿ
+9
+java:S5786X"Remove this 'public' modifier.(šüıÜùÿÿÿÿ
+9
+java:S5786`"Remove this 'public' modifier.(ùÜš•øÿÿÿÿ
+4
+java:S5786i"Remove this 'public' modifier.(ùè»ù
+5
+java:S5786€"Remove this 'public' modifier.(ôšã¶
+5
+java:S5786Œ"Remove this 'public' modifier.(è¾ÌÖ
+m
+java:S3415‰"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(ÉÜÆñ
+m
+java:S3415“"VSwap these 2 arguments so they are in the correct order: expected value, actual value.(òÕ”Í
